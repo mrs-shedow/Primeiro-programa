@@ -5,7 +5,7 @@ pi = float(input ("Qual os 3 primeiros numeros de valor de PI? "))
 if pi == 3.14:
     print ("boa intelijentao")
 else:
-    float(input ("burro tenta de novo, qual os 3 primeiros numeros de valor de PI?"))
+    float(input ("burro tenta de novo, qual os 3 primeiros numeros de valor de PI? "))
 sup = input ("sup fadinha, de cura ou engage? ")
 if sup == "fadinha":
     print ("KKKKKKK boa mlk")
@@ -13,7 +13,7 @@ elif sup == "cura" or sup == "de cura":
     print ("virgem do caralho")
 else:
     print ("primeiramente que voce é prata! que sup de engage oque")
-filosofia = input ("o ser humano nasce bom?")
+filosofia = input ("o ser humano nasce bom? ")
 if filosofia == "sim":
     print ("hmmm... boa resposta")
 else:
